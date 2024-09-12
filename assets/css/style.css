@@ -1,0 +1,21 @@
+
+
+/*  STYLE CARDS
+.container{
+    padding: 16px;
+    justify-content: center;
+}
+.col{
+padding: 16px;   
+}
+
+.nav link custom-light {
+    color: var(--light);
+}
+*/
+
+ .span roboto-medium {
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
